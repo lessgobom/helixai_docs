@@ -1,9 +1,7 @@
 # 1. Introduction 🌟
 
-<video style="max-width: 720px; width: 100%; height: auto;" controls>
-  <source src="./intro_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Watch our intro:
+{% embed url="https://streamable.com/bqf5kx" %}
 
 ## 1.1 Vision  
 HELIXAI envisions a future where individuals can securely store, analyze, and monetize their genetic data using AI-powered tools and blockchain technology.
