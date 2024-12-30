@@ -1,4 +1,4 @@
-# 3. The HELIXAI Solution 💡
+# 3. The GENIXAI Solution 💡
 
 ## 3.1 AI-Powered Genetic Analysis  
 - **Health Insights** – Disease predisposition analysis.  
